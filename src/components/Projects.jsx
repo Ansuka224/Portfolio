@@ -10,21 +10,21 @@ const Projects = () => {
       title: "Website using HTML & CSS",
       description: "Project 1",
       image: Webpage,
-      githubLink: "https://github.com/ansukathapaliya/website-using-html-css",
+      githubLink: "https://github.com/Ansuka224/Webpage-using-html-CSS",
     },
     {
       id: 2,
       title: "Hospital Management System Using Python",
       description: "Project 2",
       image: HMS,
-      githubLink: "https://github.com/yourusername/hospital-management-system",
+      githubLink: "https://github.com/Ansuka224/Hospital-Management-System",
     },
     {
       id: 3,
       title: "My Portfolio using React JS",
       description: "Project 3",
       image: Portfolio,
-      githubLink: "https://github.com/yourusername/portfolio-react",
+      githubLink: "https://github.com/Ansuka224/Portfolio",
     },
   ]);
 
